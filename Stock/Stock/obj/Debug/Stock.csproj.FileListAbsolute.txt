@@ -1,0 +1,35 @@
+D:\Documents\GitHub\USARB-2022-2023-Sem1\3. Programarea orientata pe obiect\Stock\Stock\bin\Debug\Stock.exe.config
+D:\Documents\GitHub\USARB-2022-2023-Sem1\3. Programarea orientata pe obiect\Stock\Stock\bin\Debug\Stock.exe
+D:\Documents\GitHub\USARB-2022-2023-Sem1\3. Programarea orientata pe obiect\Stock\Stock\bin\Debug\Stock.pdb
+D:\Documents\GitHub\USARB-2022-2023-Sem1\3. Programarea orientata pe obiect\Stock\Stock\obj\Debug\Stock.csproj.AssemblyReference.cache
+D:\Documents\GitHub\USARB-2022-2023-Sem1\3. Programarea orientata pe obiect\Stock\Stock\obj\Debug\Stock.csproj.SuggestedBindingRedirects.cache
+D:\Documents\GitHub\USARB-2022-2023-Sem1\3. Programarea orientata pe obiect\Stock\Stock\obj\Debug\Stock.Properties.Resources.resources
+D:\Documents\GitHub\USARB-2022-2023-Sem1\3. Programarea orientata pe obiect\Stock\Stock\obj\Debug\Stock.csproj.GenerateResource.cache
+D:\Documents\GitHub\USARB-2022-2023-Sem1\3. Programarea orientata pe obiect\Stock\Stock\obj\Debug\Stock.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\USARB-2022-2023-Sem1\3. Programarea orientata pe obiect\Stock\Stock\obj\Debug\Stock.exe
+D:\Documents\GitHub\USARB-2022-2023-Sem1\3. Programarea orientata pe obiect\Stock\Stock\obj\Debug\Stock.pdb
+D:\Documents\GitHub\USARB-2022-2023-Sem1\3. Programarea orientata pe obiect\Stock\Stock\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\Documents\GitHub\USARB-2022-2023-Sem1\3. Programarea orientata pe obiect\Stock\Stock\obj\Debug\Stock.Intro.resources
+D:\Documents\GitHub\USARB-2022-2023-Sem1\3. Programarea orientata pe obiect\Stock\Stock\obj\Debug\Stock.Login.resources
+D:\Documents\GitHub\USARB-2022-2023-Sem1\3. Programarea orientata pe obiect\Stock\Stock\obj\Debug\Stock.Stocks.resources
+D:\Documents\GitHub\USARB-2022-2023-Sem1\3. Programarea orientata pe obiect\Stock\Stock\obj\Debug\Stock.csproj.CopyComplete
+D:\Documents\GitHub\Programarea-orientata-pe-obiect\Stock\Stock\bin\Debug\Stock.exe.config
+D:\Documents\GitHub\Programarea-orientata-pe-obiect\Stock\Stock\bin\Debug\Stock.exe
+D:\Documents\GitHub\Programarea-orientata-pe-obiect\Stock\Stock\bin\Debug\Stock.pdb
+D:\Documents\GitHub\Programarea-orientata-pe-obiect\Stock\Stock\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\Documents\GitHub\Programarea-orientata-pe-obiect\Stock\Stock\obj\Debug\Stock.csproj.AssemblyReference.cache
+D:\Documents\GitHub\Programarea-orientata-pe-obiect\Stock\Stock\obj\Debug\Stock.csproj.SuggestedBindingRedirects.cache
+D:\Documents\GitHub\Programarea-orientata-pe-obiect\Stock\Stock\obj\Debug\Stock.Intro.resources
+D:\Documents\GitHub\Programarea-orientata-pe-obiect\Stock\Stock\obj\Debug\Stock.Login.resources
+D:\Documents\GitHub\Programarea-orientata-pe-obiect\Stock\Stock\obj\Debug\Stock.Properties.Resources.resources
+D:\Documents\GitHub\Programarea-orientata-pe-obiect\Stock\Stock\obj\Debug\Stock.Stocks.resources
+D:\Documents\GitHub\Programarea-orientata-pe-obiect\Stock\Stock\obj\Debug\Stock.csproj.GenerateResource.cache
+D:\Documents\GitHub\Programarea-orientata-pe-obiect\Stock\Stock\obj\Debug\Stock.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\Programarea-orientata-pe-obiect\Stock\Stock\obj\Debug\Stock.csproj.CopyComplete
+D:\Documents\GitHub\Programarea-orientata-pe-obiect\Stock\Stock\obj\Debug\Stock.exe
+D:\Documents\GitHub\Programarea-orientata-pe-obiect\Stock\Stock\obj\Debug\Stock.pdb
+D:\Documents\GitHub\Programarea-orientata-pe-obiect\Stock\Stock\obj\Debug\Stock.Customers.resources
+D:\Documents\GitHub\Programarea-orientata-pe-obiect\Stock\Stock\obj\Debug\Stock.Suppliers.resources
+D:\Documents\GitHub\Programarea-orientata-pe-obiect\Stock\Stock\obj\Debug\Stock.Category.resources
+D:\Documents\GitHub\Programarea-orientata-pe-obiect\Stock\Stock\obj\Debug\Stock.Orders.resources
+D:\Documents\GitHub\Programarea-orientata-pe-obiect\Stock\Stock\obj\Debug\Stock.Dashboard.resources

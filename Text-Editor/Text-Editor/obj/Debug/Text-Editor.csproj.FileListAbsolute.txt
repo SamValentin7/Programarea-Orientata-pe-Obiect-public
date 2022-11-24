@@ -1,0 +1,13 @@
+D:\Documents\GitHub\USARB-2022-2023-Sem1\3. Programarea orientata pe obiect\Text-Editor\Text-Editor\bin\Debug\Text-Editor.exe.config
+D:\Documents\GitHub\USARB-2022-2023-Sem1\3. Programarea orientata pe obiect\Text-Editor\Text-Editor\bin\Debug\Text-Editor.exe
+D:\Documents\GitHub\USARB-2022-2023-Sem1\3. Programarea orientata pe obiect\Text-Editor\Text-Editor\bin\Debug\Text-Editor.pdb
+D:\Documents\GitHub\USARB-2022-2023-Sem1\3. Programarea orientata pe obiect\Text-Editor\Text-Editor\obj\Debug\Text-Editor.csproj.AssemblyReference.cache
+D:\Documents\GitHub\USARB-2022-2023-Sem1\3. Programarea orientata pe obiect\Text-Editor\Text-Editor\obj\Debug\Text-Editor.csproj.SuggestedBindingRedirects.cache
+D:\Documents\GitHub\USARB-2022-2023-Sem1\3. Programarea orientata pe obiect\Text-Editor\Text-Editor\obj\Debug\Text_Editor.Form1.resources
+D:\Documents\GitHub\USARB-2022-2023-Sem1\3. Programarea orientata pe obiect\Text-Editor\Text-Editor\obj\Debug\Text_Editor.Properties.Resources.resources
+D:\Documents\GitHub\USARB-2022-2023-Sem1\3. Programarea orientata pe obiect\Text-Editor\Text-Editor\obj\Debug\Text-Editor.csproj.GenerateResource.cache
+D:\Documents\GitHub\USARB-2022-2023-Sem1\3. Programarea orientata pe obiect\Text-Editor\Text-Editor\obj\Debug\Text-Editor.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\USARB-2022-2023-Sem1\3. Programarea orientata pe obiect\Text-Editor\Text-Editor\obj\Debug\Text-Editor.exe
+D:\Documents\GitHub\USARB-2022-2023-Sem1\3. Programarea orientata pe obiect\Text-Editor\Text-Editor\obj\Debug\Text-Editor.pdb
+D:\Documents\GitHub\USARB-2022-2023-Sem1\3. Programarea orientata pe obiect\Text-Editor\Text-Editor\obj\Debug\Text_Editor.AboutForm.resources
+D:\Documents\GitHub\USARB-2022-2023-Sem1\3. Programarea orientata pe obiect\Text-Editor\Text-Editor\obj\Debug\Text_Editor.Find_Replace.resources

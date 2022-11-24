@@ -1,0 +1,22 @@
+D:\Documents\GitHub\Programarea-orientata-pe-obiect\API - Word\API - Word\bin\Debug\API - Word.exe.config
+D:\Documents\GitHub\Programarea-orientata-pe-obiect\API - Word\API - Word\bin\Debug\API - Word.exe
+D:\Documents\GitHub\Programarea-orientata-pe-obiect\API - Word\API - Word\bin\Debug\API - Word.pdb
+D:\Documents\GitHub\Programarea-orientata-pe-obiect\API - Word\API - Word\obj\Debug\API - Word.csproj.AssemblyReference.cache
+D:\Documents\GitHub\Programarea-orientata-pe-obiect\API - Word\API - Word\obj\Debug\API - Word.csproj.SuggestedBindingRedirects.cache
+D:\Documents\GitHub\Programarea-orientata-pe-obiect\API - Word\API - Word\obj\Debug\API___Word.Form1.resources
+D:\Documents\GitHub\Programarea-orientata-pe-obiect\API - Word\API - Word\obj\Debug\API___Word.Properties.Resources.resources
+D:\Documents\GitHub\Programarea-orientata-pe-obiect\API - Word\API - Word\obj\Debug\API - Word.csproj.GenerateResource.cache
+D:\Documents\GitHub\Programarea-orientata-pe-obiect\API - Word\API - Word\obj\Debug\API - Word.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\Programarea-orientata-pe-obiect\API - Word\API - Word\obj\Debug\API - Word.exe
+D:\Documents\GitHub\Programarea-orientata-pe-obiect\API - Word\API - Word\obj\Debug\API - Word.pdb
+D:\Documents\GitHub\Programarea-orientata-pe-obiect\API - Word\API - Word\obj\Debug\API - Word.csproj.ResolveComReference.cache
+D:\Documents\GitHub\Programarea-orientata-pe-obiect\API - Word\API - Word\obj\Debug\API___Word.Create.resources
+D:\Documents\GitHub\Programarea-orientata-pe-obiect\API - Word\API - Word\bin\Debug\Aspose.Words.dll
+D:\Documents\GitHub\Programarea-orientata-pe-obiect\API - Word\API - Word\bin\Debug\Aspose.Words.Pdf2Word.dll
+D:\Documents\GitHub\Programarea-orientata-pe-obiect\API - Word\API - Word\bin\Debug\Spire.Doc.dll
+D:\Documents\GitHub\Programarea-orientata-pe-obiect\API - Word\API - Word\bin\Debug\Spire.Pdf.dll
+D:\Documents\GitHub\Programarea-orientata-pe-obiect\API - Word\API - Word\bin\Debug\Microsoft.mshtml.dll
+D:\Documents\GitHub\Programarea-orientata-pe-obiect\API - Word\API - Word\bin\Debug\Aspose.Words.xml
+D:\Documents\GitHub\Programarea-orientata-pe-obiect\API - Word\API - Word\bin\Debug\Spire.Doc.xml
+D:\Documents\GitHub\Programarea-orientata-pe-obiect\API - Word\API - Word\bin\Debug\Spire.Pdf.xml
+D:\Documents\GitHub\Programarea-orientata-pe-obiect\API - Word\API - Word\obj\Debug\API - Word.csproj.CopyComplete
